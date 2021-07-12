@@ -1,0 +1,34 @@
+My Experience of Tableau Desktop Certified Associate Exam
+I am working on Tableau for many years now. However, I recently appeared on the Tableau Certified Desktop Associate exam.
+
+Here are a few suggestions from my experience:
+
+If you have already appeared on any Tableau certification so you know the initial set up, that your exam link will get active only 60 seconds before the scheduled exam. Then proctor will join you, and you need to show your government-issued ID card. You also need to show the 360 degrees view of your room to the proctor. You cannot use an external microphone/webcam, no additional monitor is allowed. Proctor will ask you to run the connectivity checker and speed test. Once everything is good, proctor login to the VM, and then you need to use that VM, on the desktop you will find the Tableau desktop software that you need to use for an exam along with the Exam files. So, this is all the regular stuff.
+
+Don’t panic if you find the technical glitches in the initial setup. In my case, my webcam was not working. I tried to restart the machine but no luck. I lost the initial 20 mins in that, then I used another laptop for the exam. But once you start the exam you will get complete 2 hours, additional 5 mins to read the instructions.
+
+If you have cleared/appeared on the Tableau Desktop Specialist exam, and if you consider the difficulty level of X of that exam, please consider the Associate exam difficulty level at least 2X or 2.5X.
+
+Be hydrated, keep the water bottle with you. You will need it.
+
+I found approx. 20 hands-on questions and 16 theoretical questions. Most of my hands-on questions were based on the global superstore dataset, which is the most popular data set.
+
+I started from question 1 and attempted all till question 36. I flagged the questions which I thought would take more time to solve or for those I had some confusion or where I need to use google.
+
+It almost took me an hour to go through all and after that, I had almost 12-14 questions which I flagged. Theoretical questions were more difficult, for example – I found the question on Choropleth Map, which I was not aware of, so I searched on the Tableau help site and found the answer. Similarly, I searched for 4-5 questions, but it took so much time. Then I attempted those hands-on questions which I initially left and solved. I found some of the hands-on questions were having long options, those will take time as we need to try all the options to find out if they are correct or not.
+
+I finally submitted my exam a few minutes before the end time. And I cleared the exam and the proctor congratulated me.
+
+All the sections from the Tableau guide are important for the exam, but I believe the Calculation section which is having 18% weightage is way too important, as you will find many questions from this section directly or indirectly.
+
+No course can cover all the theoretical questions which can be appeared in your exam, and you cannot remember all that stuff, so you should know how to search the answers on google.
+
+While studying for the exam I referred to many blogs including Tableau recommended training for the exam that is Desktop 1 and Desktop 2.
+
+I consolidated all my learning and exam experience to create this course, I also update my certification courses as per other students exam experiences so that the courses will remain relevant for the students.
+
+So, my final suggestion for all of you is once you are confident about the exam only then register it because it is not cheap ($250).
+
+
+
+Happy Learning and All the best!!!
