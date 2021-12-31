@@ -1,0 +1,4 @@
+Predictive Model
+This is a new topic added to the Data Analyst Curriculum.  Not very important from an exam perspective, but I would suggest going through the Tableau article to get some idea.
+
+URL - https://help.tableau.com/current/pro/desktop/en-us/predictions.htm

@@ -1,0 +1,3 @@
+Geographic Search - https://help.tableau.com/current/pro/desktop/en-us/maps_mapsearch.htm
+
+Spatial Files - https://help.tableau.com/current/pro/desktop/en-us/maps_shapefiles.htm

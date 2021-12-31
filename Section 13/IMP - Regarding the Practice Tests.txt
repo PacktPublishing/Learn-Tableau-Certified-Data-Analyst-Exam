@@ -1,0 +1,2 @@
+IMP - Regarding the Practice Tests
+This Practice test is related to the Tableau Desktop Associate exam. As the topics are very similar, I strongly suggest attempting this test to verify your understanding of the Tableau
